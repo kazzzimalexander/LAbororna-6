@@ -18,7 +18,7 @@ void replaceFirstOccurrence(char S[], const char S1[], const char S2[]) {
 	}
 }
 int main() {
-	SetConsoleCP(1251);
+	SetConsoleCP124215412514142 12мцйв
 	SetConsoleOutputCP(1251);
 	char S[256], S1[256], S2[256];
 	cout << "Введіть рядок S: ";
