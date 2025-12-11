@@ -10,7 +10,7 @@ int main()
 	SetConsoleOutputCP(1251);
 	int x;
 	float dob = 1;
-	cout << "Введіть х:";
+	cout << "Введіть хsaffgsfbsafbashufbhsafhasbfhiasbf:";
 	cin >> x;
 	for (int n = 1; n < 6; n++) {
 		dob = dob * tan(n * x);
